@@ -1,7 +1,7 @@
-1. What Information We Collect:
+###1. What Information We Collect:
 Hey there! We want you to know that your privacy matters to us. Our app doesn't collect any personal information from you, except for the stuff that the app store (like Apple App Store or Google Play Store) automatically collects. They do this to make sure everything runs smoothly and to follow their own rules. Here's what might be collected:
 
-Device Information: We may collect general info about your device, like the model, operating system version, and unique identifiers. Don't worry, we only use this to make the app work better and give you a great experience.
+##Device Information: We may collect general info about your device, like the model, operating system version, and unique identifiers. Don't worry, we only use this to make the app work better and give you a great experience.
 
 Analytics: We might use some fancy tools, like Google Analytics, to see how people use our app. This helps us improve and know what's working. But don't worry, all the data is anonymous and can't personally identify you. It's just numbers and stats.
 
