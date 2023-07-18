@@ -1,7 +1,5 @@
 # Privacy Policy
 
----
-
 ## 1. What Information We Collect:
 
 Hey there! We want you to know that your privacy matters to us. Our app doesn't collect any personal information from you, except for the stuff that the app store (like Apple App Store or Google Play Store) automatically collects. They do this to make sure everything runs smoothly and to follow their own rules. Here's what might be collected:
