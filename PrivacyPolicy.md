@@ -29,7 +29,3 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## 6. Contact Us:
 
 If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at JPolm@rollins.edu.
-
----
-
-Please note that this Privacy Policy applies to the React Native app described in this repository. It is important to display the Privacy Policy prominently within the app and any associated websites or landing pages to inform users about how their data is being handled and protected. Also, it is essential to keep the "Contact Us" email address up to date so users can reach out to the appropriate contact for any privacy-related concerns.
