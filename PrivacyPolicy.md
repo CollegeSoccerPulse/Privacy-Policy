@@ -26,4 +26,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## 6. Contact Us:
 
-If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at JPolm@rollins.edu.
+If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at CollegeSoccerPulse@outlook.com.
